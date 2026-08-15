@@ -1,7 +1,7 @@
 # Hi there is 猫猫！ 👋
 
-[![HHH2309's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHH2309)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHH2309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![HHH2309's GitHub stats](https://ithub-stats-extended.vercel.app/api?username=HHH2309)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://ithub-stats-extended.vercel.app/api/top-langs/?username=HHH2309&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 ## Languages?
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
